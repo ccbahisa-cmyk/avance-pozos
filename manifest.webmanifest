@@ -1,0 +1,16 @@
+{
+  "name": "Avance de pozos",
+  "short_name": "Pozos",
+  "description": "Marcar las tareas hechas en cada pozo, con o sin señal.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef1f3",
+  "theme_color": "#1f5f8b",
+  "lang": "es-AR",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
